@@ -18,5 +18,8 @@ Desempenho: tempo de resposta
 Custo: Como o custo é gerenciado
 SLA: Acordo firmado em contrato de tempo que a aplicação deve ficar disponivel;
 
-
+# Métricatttttts importantes
+* CPU disponivel
+* Disco utilização
+* Memória servidorttt
 
